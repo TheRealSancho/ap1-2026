@@ -1,0 +1,16 @@
+{
+  "name": "AP1 Pr\u00fcferfragen 2026",
+  "short_name": "AP1 Fragen",
+  "description": "Pr\u00fcferfragen Katalog mit L\u00f6sungen",
+  "start_url": "prueferfragen.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "AP1 Mechatroniker 2026 - Learning Snacks",
+  "short_name": "AP1 Learning",
+  "description": "Interaktive Learning Snacks f\u00fcr AP Teil 1 Fr\u00fchjahr 2026",
+  "start_url": "learning_snacks.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#facc15",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
